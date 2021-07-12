@@ -1,3 +1,0 @@
-/home/akurbanova/hub_prog/it_school/hello_world/tmp/CMakeFiles/rebuild_cache.dir
-/home/akurbanova/hub_prog/it_school/hello_world/tmp/CMakeFiles/main.dir
-/home/akurbanova/hub_prog/it_school/hello_world/tmp/CMakeFiles/edit_cache.dir
